@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WebCamApplicationTheLast.About" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>About.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.WebForm3" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAGAAAAABAAEAAABgAIAAAYACAAAAAAAIAAAA=</HashCode>
+      <FileName>Addevent.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast._Default" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAgAAAgAAAIAAAAAA4DsAAAwAcB8ACKAQAAJAABI=</HashCode>
+      <FileName>Default.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Global" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAAAAAAAAECIBAAAAAAAAAA=</HashCode>
+      <FileName>Global.asax.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Person" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IService1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.WebForm1" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAgAIAAAQAAAAAAQAAIAAAA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.PhotoCapture" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAIACAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>PhotoCapture.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.WebForm2" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAKAAQA=</HashCode>
+      <FileName>Register.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Service1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service1.svc.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WebCamApplicationTheLast.SiteMaster" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACABAACAAAAAAQAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Site.Master.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.uploadimges" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>uploadimges.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.WebForm5" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>WebForm5.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Account.ChangePassword" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAA=</HashCode>
+      <FileName>Account\ChangePassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Account.ChangePasswordSuccess" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Account\ChangePasswordSuccess.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Account.Login" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAIAAAE=</HashCode>
+      <FileName>Account\Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Account.Register" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAIAAAAAAAAAAAAAAAAAABAAAAAAAAIAAAA=</HashCode>
+      <FileName>Account\Register.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Members.WebForm3" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAAAAAAAAAAAAAAAgAIAAAQEAAAAAAAAIAAAA=</HashCode>
+      <FileName>Members\accept.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Members.WebForm5" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQgAIAAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Members\decline.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Members.WebForm6" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAgAIAAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Members\eventinfo.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Members.WebForm2" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACgAIAAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Members\invite.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Members.WebForm1" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQAAAAAAABgAIAABYAAAAAAAAAIAAIg=</HashCode>
+      <FileName>Members\Members.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Members.WebForm4" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAgAIAEAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Members\plan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WebCamApplicationTheLast.Properties.Settings" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WebCamApplicationTheLast.IService1" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IService1.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
